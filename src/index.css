@@ -1,0 +1,27 @@
+
+
+/* Defining Global Variables */
+:root {
+  /* --dgreen: #132e1e;  */
+  --lgreen: #8DECB4;
+  --orange: #E86A33; /*Accent */
+  --bground: #f5f2f1;
+  --text: #414040;
+  --dtext: #2c2c2c;
+  --brown: #57473a;
+}
+
+/* Setting Up Whole Document */
+* {
+  font-family: "Urbanist", sans-serif;
+  box-sizing: border-box;
+  color: var(--text);
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+body {
+  background-color: #cee8f0;
+}
