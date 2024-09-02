@@ -55,17 +55,17 @@ export default function Work() {
             <h1 className='top-spacing bold bottom-spacing'>DEVELOPMENT</h1>
             <div className='development'>
                 <div className='align'>
-                    <a href='https://github.com/Trufflz/trufflz.github.io'><img className='proj' src={website} alt='website' title='My Personal Website!!!'></img></a>
+                    <a href='https://github.com/Trufflz/trufflz.github.io' target='_blank' rel="noreferrer"><img className='proj' src={website} alt='website' title='My Personal Website!!!'></img></a>
                     <p className='small-font'>This very site!</p>
                     <p className='smaller-font'>Inspo: Sharlene Yap</p>
                 </div>
                 <div className='align'>
-                    <a href='https://github.com/UCR-Senior-Design/course-project-rvea'><img className='proj' src={ta} alt='ta' title='UCR TA Hiring Website'></img></a>
+                    <a href='https://github.com/UCR-Senior-Design/course-project-rvea' target='_blank' rel="noreferrer"><img className='proj' src={ta} alt='ta' title='UCR TA Hiring Website'></img></a>
                     <p className='small-font'>UCR TA Hiring Website</p>
                     <p className='smaller-font'>Sept 2023 - March 2024</p>
                 </div>
                 <div className='align'>
-                    <a href='https://devpost.com/software/mic-check'><img className='proj' src={mic} alt='mic' title='Mic-Check Game'></img></a>
+                    <a href='https://devpost.com/software/mic-check' target='_blank' rel="noreferrer"><img className='proj' src={mic} alt='mic' title='Mic-Check Game'></img></a>
                     <p className='small-font'>Mic-Check Game</p>
                     <p className='smaller-font'>Hackathon proj w/ mah friend :3</p>
                 </div>
