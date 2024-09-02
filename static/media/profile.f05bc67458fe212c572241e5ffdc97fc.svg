@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>.cls-1,.cls-2{fill:none;stroke:#000000;stroke-linecap:round;stroke-width:1.5px;}.cls-1{stroke-linejoin:round;}.cls-2{stroke-linejoin:bevel;}</style>
+</defs>
+<g id="ic-users-info">
+<path class="cls-1" d="M3,21l.79-2.88C5.1,13.39,8.55,11,12,11"/>
+<circle class="cls-2" cx="12" cy="5.98" r="5"/>
+<circle class="cls-1" cx="17" cy="18" r="5"/>
+<line class="cls-1" x1="17" y1="17.34" x2="17" y2="20.51"/>
+<line class="cls-1" x1="17" y1="15.6" x2="17" y2="15.51"/>
+</g>
+</svg>
