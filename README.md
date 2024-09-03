@@ -1,7 +1,7 @@
 <h1 align=center> My Personal Website!! >:3 </h1>
 <p align=center> By: Vicki Vo</p>
 <p align=center> Term: June 26, 2024 - Sept 2, 2024</p>
-<p align=center>Official Link: <a href='trufflz.github.io'>trufflz.github.io</a></p>
+<p align=center>Official Link: <a href='https://trufflz.github.io' target='_blank'>trufflz.github.io</a></p>
 
 ## Tools Used
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
