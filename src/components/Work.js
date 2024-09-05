@@ -41,17 +41,6 @@ export default function Work() {
             </div>
             <hr className='bottom-spacing'></hr>
 
-
-            <h1 className='top-spacing bold bottom-spacing'>ILLUSTRATIONS</h1>
-            <div className='arts'>
-                <a href='https://www.instagram.com/p/C923-YMywjG/?hl=en&img_index=1' target='_blank' rel="noreferrer"><img className='art' src={ryo} alt='ryo' title='Fanart: Ryo Yamada'></img></a>
-                <a href='https://www.instagram.com/p/C3Rox82O-NS/?hl=en' target='_blank' rel="noreferrer"><img className='art' src={lemon} alt='lemon' title='Fanart: Lemon Irvine'></img></a>
-                <a href='https://www.instagram.com/p/C9BMcNpSVdZ/?hl=en&img_index=1' target='_blank' rel="noreferrer"><img className='art' src={ina} alt='ina' title="Fanart: Ninomae Ina'Nis"></img></a>
-            </div>
-            <p className='small-font large-spacing top-spacing'>See more on <a className='accent small-font underline' href='https://www.instagram.com/wiiipaah_/?hl=en' target='_blank' rel="noreferrer">Instagram</a></p>
-            <hr className='bottom-spacing'></hr>
-
-
             <h1 className='top-spacing bold bottom-spacing'>DEVELOPMENT</h1>
             <div className='development'>
                 <div className='align'>
@@ -71,6 +60,19 @@ export default function Work() {
                 </div>
             </div>
             <p className='small-font large-spacing top-spacing spacing'>See more on <a className='accent small-font underline' href='https://github.com/Trufflz' target='_blank' rel="noreferrer">Github</a></p>
+            <hr className='bottom-spacing'></hr>
+
+            
+            <h1 className='top-spacing bold bottom-spacing'>ILLUSTRATIONS</h1>
+            <div className='arts'>
+                <a href='https://www.instagram.com/p/C923-YMywjG/?hl=en&img_index=1' target='_blank' rel="noreferrer"><img className='art' src={ryo} alt='ryo' title='Fanart: Ryo Yamada'></img></a>
+                <a href='https://www.instagram.com/p/C3Rox82O-NS/?hl=en' target='_blank' rel="noreferrer"><img className='art' src={lemon} alt='lemon' title='Fanart: Lemon Irvine'></img></a>
+                <a href='https://www.instagram.com/p/C9BMcNpSVdZ/?hl=en&img_index=1' target='_blank' rel="noreferrer"><img className='art' src={ina} alt='ina' title="Fanart: Ninomae Ina'Nis"></img></a>
+            </div>
+            <p className='small-font large-spacing top-spacing'>See more on <a className='accent small-font underline' href='https://www.instagram.com/wiiipaah_/?hl=en' target='_blank' rel="noreferrer">Instagram</a></p>
+
+
+            
 
 
 
