@@ -10,6 +10,7 @@ export default function About() {
                     <span className="accent bold title-font">Vicki Vo</span>
                     <p className="small-font top-spacing">Full-stack developer, illustrator</p>
                     <p className="small-font">Former developer intern at <a href="https://www.elevancehealth.com/" className="underline accent small-font" target='_blank' rel="noreferrer">Elevance Health</a></p>
+                    <p className="small-font">Current Junior DevOps IT/Developer at <a href="https://lexor.com/" className="underline accent small-font" target='_blank' rel="noreferrer">Lexor Inc.</a></p>
                 </div>
             </div>
             <hr className='bottom-spacing'></hr>
@@ -18,11 +19,11 @@ export default function About() {
             <div className='about-me'>
                 <p className="small-font top-spacing">hi! i'm vicki, a developer and illustrator. &nbsp;i . . .</p>
                 <ul className='list top-spacing'>
-                    <li className="small-font">do web development,</li>
+                    <li className="small-font">do full stack web development,</li>
                     <li className="small-font">create 2d games, and</li>
                     <li className="small-font">draw in my free time!</li>
                 </ul>
-                <p className="small-font top-spacing">interested in working with me? send me an email at <span className='accent underline small-font'>vovincent32@gmail.com</span> !</p>
+                <p className="small-font top-spacing">interested in working with me? send me an email at <span className='accent underline small-font'>vvvo.0ws@gmail.com</span> !</p>
                 <p className="small-font bottom-spacing">c:</p>
             </div>
             <hr className='bottom-spacing'></hr>
@@ -43,7 +44,7 @@ export default function About() {
                     <li className="small-font">H&M shopping enthusiast</li>
                     <li className="small-font">Hip hop dancing</li>
                     <li className="small-font">bwaaaaaaaaaa :3c</li>
-                    <li className="small-font">My <a className='accent small-font underline' href='https://www.instagram.com/wiiipaah_/?hl=en' target='_blank' rel="noreferrer">digital art!</a></li>
+                    {/* <li className="small-font">My <a className='accent small-font underline' href='https://www.instagram.com/wiiipaah_/?hl=en' target='_blank' rel="noreferrer">digital art!</a></li> */}
                 </ul>
             </div>
 

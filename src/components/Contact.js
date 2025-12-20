@@ -33,7 +33,7 @@ export default function Contact() {
 
     return (
         <div className="padding">
-            <p className='bold font'>WORK EMAIL:&nbsp;&nbsp; <span className='font accent underline'>vovincent32@gmail.com</span></p>
+            <p className='bold font'>WORK EMAIL:&nbsp;&nbsp; <span className='font accent underline'>vvvo.0ws@gmail.com</span></p>
 
             <div className='contact-container'>
                 <p className='bold font'>QUICK CONTACT:</p>

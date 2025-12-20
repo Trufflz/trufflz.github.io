@@ -8,7 +8,7 @@ import click from '../audio/click.wav'
 import Resume from '../resume.pdf'
 const Linkedin = 'https://www.linkedin.com/in/vvo32/'
 const Github = 'https://github.com/Trufflz'
-const Instagram = 'https://www.instagram.com/_wiiiyaa/?hl=en'
+const Instagram = 'https://www.instagram.com/vickivo_/?hl=en'
 
 function playClick() {
     var snd = new Audio(click)
